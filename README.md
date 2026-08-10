@@ -45,7 +45,7 @@ The following data-quality issues were addressed:
 ## Analysis Update
 
 Additional exploratory analysis was conducted on product,
-retailer, geographic, and sales-method performance.
+retailer, geographic, and sales-method performance. 
 
 ## Tools
 
