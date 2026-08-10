@@ -42,6 +42,11 @@ The following data-quality issues were addressed:
 * Amazon purchased the most units in 2020, with approximately 316,880 units.
 * Online sales represented an important sales channel for RUSH.
 
+## Analysis Update
+
+Additional exploratory analysis was conducted on product,
+retailer, geographic, and sales-method performance.
+
 ## Tools
 
 * Python
